@@ -14,8 +14,8 @@ This website presents:
  
 ## 🛠️ Technologies Used
 - **Front-End**:
-  - HTML5
-  - CSS3
+  - HTML
+  - CSS
   - JavaScript
 
 <img width="2850" height="1564" alt="لقطة شاشة 2026-07-12 044128" src="https://github.com/user-attachments/assets/dd85b851-dd56-4520-8191-8a7d90389abf" />
